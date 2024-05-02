@@ -15,11 +15,6 @@ I'm a 3rd year student studying Mobile Development and Software Engineering.
 
 ## Skills
 
-- **Programming Languages:** 
-  ![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java)
-  ![C](https://img.shields.io/badge/C-Programming-green?style=for-the-badge&logo=c)
-  ![C#](https://img.shields.io/badge/C%23-Programming-blue?style=for-the-badge&logo=c-sharp)
-  ![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python)
 
 - **Mobile Development:** 
   ![Flutter](https://img.shields.io/badge/Flutter-Mobile%20Development-blueviolet?style=for-the-badge&logo=flutter)

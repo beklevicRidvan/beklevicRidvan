@@ -10,7 +10,7 @@ I'm a 3rd year student studying Mobile Development and Software Engineering.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/enes-okurterzi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/r%C4%B1dvan-beklevi%C3%A7/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/beklevicRidvan)
 
 ## Skills

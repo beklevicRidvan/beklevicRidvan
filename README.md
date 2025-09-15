@@ -1,7 +1,6 @@
 # Hello, I'm Rıdvan BEKLEVİÇ! 👋
 
-I'm a 4rd year student studying Mobile Development and Software Engineering.
-
+Bachelor’s Degree in Software Engineering (Specialization in Mobile Development).
 ## About Me
 
 - 🌱 Currently, I'm working on Flutter for mobile app development.
